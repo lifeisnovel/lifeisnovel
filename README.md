@@ -1,4 +1,6 @@
-### Hi there 👋
+### ⚡ Thpark, Web Engineer, or Miscellaneous Developer
+
+### ⚡ 번쩍번쩍 쓰파크, 웹을 만들지만 사실 아무거나 만듭니다.
 
 <!--
 **lifeisnovel/lifeisnovel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
